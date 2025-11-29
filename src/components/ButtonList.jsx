@@ -5,7 +5,7 @@ const list= ["All","Gaming","Songs","Live","Cricket","Soccer","Cooking","News","
 
 const ButtonsList = () => {
   return(
-   <div className="flex">
+   <div className="flex ">
     <Button name="All"/>
     <Button name="Gaming"/>
     <Button name="Songs"/>
